@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s354LwYIdN0ErDIP1BiZJebxe5anZV48ZsJPto0yjWUvulUUVmdrrP3ZUvAMGYo/XIwXtzlmG6uOpseijTvllA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Santiago_Vallejo\\Desktop\\hugo\\proyectos\\solusoft\\Servicios\\Servicios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Santiago_Vallejo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

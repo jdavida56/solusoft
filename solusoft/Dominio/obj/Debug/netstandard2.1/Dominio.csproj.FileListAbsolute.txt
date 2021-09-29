@@ -1,0 +1,20 @@
+C:\Users\Santiago_Vallejo\Desktop\hugo\proyectos\solusoft\Dominio\bin\Debug\netstandard2.1\Dominio.deps.json
+C:\Users\Santiago_Vallejo\Desktop\hugo\proyectos\solusoft\Dominio\bin\Debug\netstandard2.1\Dominio.dll
+C:\Users\Santiago_Vallejo\Desktop\hugo\proyectos\solusoft\Dominio\bin\Debug\netstandard2.1\Dominio.pdb
+C:\Users\Santiago_Vallejo\Desktop\hugo\proyectos\solusoft\Dominio\obj\Debug\netstandard2.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\Santiago_Vallejo\Desktop\hugo\proyectos\solusoft\Dominio\obj\Debug\netstandard2.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago_Vallejo\Desktop\hugo\proyectos\solusoft\Dominio\obj\Debug\netstandard2.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\Santiago_Vallejo\Desktop\hugo\proyectos\solusoft\Dominio\obj\Debug\netstandard2.1\Dominio.AssemblyInfo.cs
+C:\Users\Santiago_Vallejo\Desktop\hugo\proyectos\solusoft\Dominio\obj\Debug\netstandard2.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Santiago_Vallejo\Desktop\hugo\proyectos\solusoft\Dominio\obj\Debug\netstandard2.1\Dominio.dll
+C:\Users\Santiago_Vallejo\Desktop\hugo\proyectos\solusoft\Dominio\obj\Debug\netstandard2.1\Dominio.pdb
+C:\Users\JDAVID\Downloads\solusoft (1)\solusoft\Dominio\bin\Debug\netstandard2.1\Dominio.deps.json
+C:\Users\JDAVID\Downloads\solusoft (1)\solusoft\Dominio\bin\Debug\netstandard2.1\Dominio.dll
+C:\Users\JDAVID\Downloads\solusoft (1)\solusoft\Dominio\bin\Debug\netstandard2.1\Dominio.pdb
+C:\Users\JDAVID\Downloads\solusoft (1)\solusoft\Dominio\obj\Debug\netstandard2.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\JDAVID\Downloads\solusoft (1)\solusoft\Dominio\obj\Debug\netstandard2.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JDAVID\Downloads\solusoft (1)\solusoft\Dominio\obj\Debug\netstandard2.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\JDAVID\Downloads\solusoft (1)\solusoft\Dominio\obj\Debug\netstandard2.1\Dominio.AssemblyInfo.cs
+C:\Users\JDAVID\Downloads\solusoft (1)\solusoft\Dominio\obj\Debug\netstandard2.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\JDAVID\Downloads\solusoft (1)\solusoft\Dominio\obj\Debug\netstandard2.1\Dominio.dll
+C:\Users\JDAVID\Downloads\solusoft (1)\solusoft\Dominio\obj\Debug\netstandard2.1\Dominio.pdb
