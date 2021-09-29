@@ -13,6 +13,7 @@ namespace Persistencia
         void DeleteEmpleados(int idEmpleados);
         
         Empleados GetEmpleados(int idEmpleados);
+       //hola
        
     }
 }
