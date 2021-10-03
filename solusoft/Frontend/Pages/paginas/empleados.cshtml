@@ -1,0 +1,15 @@
+@page
+@model solusoft.Frontend.paginas.ListModel
+@{
+
+}
+<h1> Listado de Empleados</h1>
+<table class="table">
+    @foreach (var empleados in modelo.empleados)
+    {
+        <td>@id</td>
+        <td>@nombres</td>
+        <td>@cargo</td>
+    }
+
+</table>

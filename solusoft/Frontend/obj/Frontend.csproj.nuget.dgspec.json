@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\Frontend\\Frontend.csproj": {}
+    "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\frontend\\Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\Frontend\\Frontend.csproj": {
+    "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\frontend\\Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\Frontend\\Frontend.csproj",
+        "projectUniqueName": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\frontend\\Frontend.csproj",
         "projectName": "Frontend",
-        "projectPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\Frontend\\Frontend.csproj",
+        "projectPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\frontend\\Frontend.csproj",
         "packagesPath": "C:\\Users\\JDAVID\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\Frontend\\obj\\",
+        "outputPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\frontend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
