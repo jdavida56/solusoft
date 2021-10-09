@@ -5799,8 +5799,8 @@
     },
     "Dominio/1.0.0": {
       "type": "project",
-      "path": "../Dominio/Dominio.csproj",
-      "msbuildProject": "../Dominio/Dominio.csproj"
+      "path": "../dominio/Dominio.csproj",
+      "msbuildProject": "../dominio/Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5846,8 +5846,8 @@
         "net5.0": {
           "targetAlias": "net5",
           "projectReferences": {
-            "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\Dominio\\Dominio.csproj"
+            "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\dominio\\Dominio.csproj"
             }
           }
         }

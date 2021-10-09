@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GlA5dn7/ZystcE4HwIhy9qongZlKrKviJWpFz0jzY+jRk+i9h1eW69N96fQFLYatNnbJaBkGuMjeyS/r0LeWNw==",
+  "dgSpecHash": "UtvCO6lWMj94mI2AVSVrZtIQnhJWfWwdatu4c9njnDCT8WmZaSSw52y/BYcEMXrmwiULSxfmfNkfBb96uSwHqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\aplicacion\\Aplicacion.csproj",
+  "projectFilePath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JDAVID\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\JDAVID\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

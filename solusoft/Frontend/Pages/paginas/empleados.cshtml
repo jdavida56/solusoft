@@ -1,15 +1,28 @@
 @page
-@model solusoft.Frontend.paginas.ListModel
+@model MyApp.Namespace.ListModel
 @{
 
 }
 <h1> Listado de Empleados</h1>
 <table class="table">
-    @foreach (var empleados in modelo.empleados)
+    @foreach (var Empleados in Model.Empleado)
     {
-        <td>@id</td>
-        <td>@nombres</td>
-        <td>@cargo</td>
+        <!--<td>@Empleados.Id</td>-->
+        <td>@Empleados.Sueldo</td>
+        <td>@Empleados.Id_Empleado_Jefe</td>
+        <td>@Empleados.Id_Cargo</td>
+        <td>@Empleados.Id_Persona</td>
+        <td>@Empleados.Id_Categoria_Dr</td>
+        <td>@Empleados.Id_Empresa</td>
+        
+
+
+
+
+
+ 
+
+
     }
 
 </table>

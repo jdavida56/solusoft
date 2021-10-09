@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\aplicacion\\Aplicacion.csproj": {}
+    "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Aplicacion\\Aplicacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\aplicacion\\Aplicacion.csproj": {
+    "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\aplicacion\\Aplicacion.csproj",
+        "projectPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Aplicacion\\Aplicacion.csproj",
         "packagesPath": "C:\\Users\\JDAVID\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\aplicacion\\obj\\",
+        "outputPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
@@ -33,8 +33,8 @@
           "net5.0": {
             "targetAlias": "net5",
             "projectReferences": {
-              "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\Persistencia\\Persistencia.csproj"
+              "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\JDAVID\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\Dominio\\obj\\",
+        "outputPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
@@ -126,14 +126,14 @@
         }
       }
     },
-    "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\Persistencia\\Persistencia.csproj": {
+    "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\Persistencia\\Persistencia.csproj",
+        "projectPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\JDAVID\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\Persistencia\\obj\\",
+        "outputPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
@@ -155,8 +155,8 @@
           "net5.0": {
             "targetAlias": "net5",
             "projectReferences": {
-              "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\solusoft\\Dominio\\Dominio.csproj"
+              "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Dominio\\Dominio.csproj"
               }
             }
           }
