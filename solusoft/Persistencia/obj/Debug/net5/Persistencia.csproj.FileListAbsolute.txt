@@ -11,7 +11,6 @@ C:\Users\JDAVID\Downloads\solusoft (1)\solusoft\Persistencia\obj\Debug\net5\Pers
 C:\Users\JDAVID\Downloads\solusoft (1)\solusoft\Persistencia\obj\Debug\net5\Persistencia.AssemblyInfoInputs.cache
 C:\Users\JDAVID\Downloads\solusoft (1)\solusoft\Persistencia\obj\Debug\net5\Persistencia.AssemblyInfo.cs
 C:\Users\JDAVID\Downloads\solusoft (1)\solusoft\Persistencia\obj\Debug\net5\Persistencia.csproj.CoreCompileInputs.cache
-C:\Users\JDAVID\Downloads\solusoft (1)\solusoft\Persistencia\obj\Debug\net5\Persistencia.csproj.CopyComplete
 C:\Users\JDAVID\Downloads\solusoft (1)\solusoft\Persistencia\obj\Debug\net5\Persistencia.dll
 C:\Users\JDAVID\Downloads\solusoft (1)\solusoft\Persistencia\obj\Debug\net5\ref\Persistencia.dll
 C:\Users\JDAVID\Downloads\solusoft (1)\solusoft\Persistencia\obj\Debug\net5\Persistencia.pdb

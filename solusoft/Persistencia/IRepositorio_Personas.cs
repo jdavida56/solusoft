@@ -4,15 +4,11 @@ namespace Persistencia
 {
     public interface IRepositorio_Personas
     {
-        IEnumerable<Personas> GetAllPersonas();
-        
+        IEnumerable<Personas> ListPersona();
         Personas addPersonas (Personas Personas );
-        
         Personas updatePersonas(Personas Personas);
-        
-        void DeletePersonas(int idPersonas);
-        
-        Personas GetPersonas(int idPersonas);
+        void DeletePersonas(int id_Personas);
+        Personas DetailPersona(int id_Personas);
        
     }
 }

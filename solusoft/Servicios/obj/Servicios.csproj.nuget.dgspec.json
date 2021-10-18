@@ -1,37 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Servicios\\Servicios.csproj": {}
+    "c:\\Users\\Hugo_Vallejo\\Documents\\grupo51\\solusoft\\Servicios\\Servicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Servicios\\Servicios.csproj": {
+    "c:\\Users\\Hugo_Vallejo\\Documents\\grupo51\\solusoft\\Servicios\\Servicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Servicios\\Servicios.csproj",
+        "projectUniqueName": "c:\\Users\\Hugo_Vallejo\\Documents\\grupo51\\solusoft\\Servicios\\Servicios.csproj",
         "projectName": "Servicios",
-        "projectPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Servicios\\Servicios.csproj",
-        "packagesPath": "C:\\Users\\JDAVID\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Servicios\\obj\\",
+        "projectPath": "c:\\Users\\Hugo_Vallejo\\Documents\\grupo51\\solusoft\\Servicios\\Servicios.csproj",
+        "packagesPath": "C:\\Users\\Hugo_Vallejo\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Hugo_Vallejo\\Documents\\grupo51\\solusoft\\Servicios\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\ProgramData\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\JDAVID\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Hugo_Vallejo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5"
+          "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -42,8 +35,14 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -62,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

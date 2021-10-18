@@ -1,0 +1,183 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Solusoft";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Index </title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/FrontEnd/wwwroot/css/site.css" />
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous">
+    </script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" rel="stylesheet" crossorigin="anonymous">
+</head>
+<body-index>
+    <div class="text-center">
+        <h1 class="display-4" >Soluciones a la Medida</h1>    
+        <img src="https://www.solusoft.es/Info/Imagenes/alianzas-certificaciones-solusoft.jpg" alt="logo">
+    </div>
+
+    <div class="container navigations">
+            <hr>
+                <div class="card-body section-body">
+                    <div class="row row-cols-1 row-cols-md-3 g-4">
+                        <div class="col">
+                            <div class="card h-100">
+                                <div class="card-service-image">
+                                    <img src="https://www.emprendedorinteligente.com/wp-content/uploads/2021/06/Que-es-la-mision-de-una-empresa.jpg" class="card-img-top" alt="mision">
+                                </div>
+                                <div class="card-body">
+                                    <h3 class="card-title">Misión</h3> <br>
+                                    <p class="card-text">
+                                        <div class="d-grid gap-2">
+                                            <p> Somos profesionales en TI y manejo de software, Solusoft esta creada para contribuir al desarrollo
+                                                social del país, diseñando productos y servicios de alta calidad, con personal comprometido 
+                                                en la producción de soluciones tecnologícas.</p>
+                                        </div>
+                                        
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card h-100">
+                                <div class="card-service-image">
+                                    <img src="https://demarchaenmumbai.files.wordpress.com/2015/05/vision.jpg" class="card-img-top" alt="vision">
+                                </div>
+                                <div class="card-body">
+                                    <h3 class="card-title">Visión</h3> <br/>
+                                    <p class="card-text">
+                                        <div class="d-grid gap-2">
+                                            <p>Solusoft tienen como visión impulsar el desarrollo de software de alta calidad, 
+                                               satisfaciendo las necesidades de pequeñas, medianas y grandes empresas. Aplicando tecnologías 
+                                               de punta. Con Pilares fundamentales como la responsabilidad, el talento humano y la innovación</p>    
+                                        </div>
+
+                                        
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card h-100">
+                                <div class="card-service-image">
+                                    <img src="http://www.equiposytalento.com/upload/talent_noticias/003/3095/anclaje.jpg" class="card-img-top" alt="valores">
+                                </div>
+                                <div class="card-body">
+                                    <h3 class="card-title">Valores Corporativos</h3> <br/>
+                                    <p class="card-text"> 
+                                        <div class="d-grid gap-2">
+                                            <p> >> Proveer soluciones tecnologícas en constante evolución. <br/><br/>
+                                                >> Gestión de procesos productivos, buscando diferenciación por la calidad del servicio y la satisfacción del cliente. <br/><br/>
+                                                >> Ser una Empresa reconocida como “Socio Tecnológico” para sus clientes por la calidad sus desarrollos <br/><br/>
+                                                >> Cuidar nuestro recurso humanos para asegurar una cultura institucional basada en la ética, innovación y la búsqueda constante de la excelencia.</p>
+                                        </div>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+    
+        <footer>
+        <div class="container-fooder-all">
+            <div class="container-body">
+
+                <div class="column1">
+                <h1>Mas Informacion de la Compañia</h1>
+                <p> Este desarrollo esta diseñado con 
+                    fines educativos    
+                </p>
+                <p>Integrantes Grupo 1</p><br>
+                    <li>Alejandra Morales Ordoñez</li>
+                    <li>Fabio Alberto Molina</li>
+                    <li>Hugo de Jesus Vallejo</li>
+                    <li>Juan David Acevedo</li>
+                    <li>Omar Echeverry</li>
+                </p>
+                </div>
+
+                <div class="column2">
+                <h1>Redes Sociales</h1>
+
+                <div class="row">
+                    <a href="https://www.facebook.com/" target="_blank"><img src="https://anthoncode.com/wp-content/uploads/2019/07/logotipo-facebook.png" width="50px" height="50px"></a>
+                    <label>Siguenos en Facebook</label>     
+                </div>
+
+                <div class="row">
+                    <a href="https://twitter.com/" target="_blank"><img src="/SolusoftWeb/wwwroot/imagenes/twitter.svg"></a>
+                    <label>Siguenos en Twitter</label>
+                </div>
+
+                <div class="row">
+                    <a href="https://www.instagram.com/?hl=es" target="_blank"><img src="/SolusoftWeb/wwwroot/imagenes/instagram.svg"></a>
+                    <label>Siguenos en Instagram </label>
+                </div>
+
+                <div class="row">
+                    <a href="https://co.pinterest.com/" target="_blank"><img src="/SolusoftWeb/wwwroot/imagenes/printeres.svg"></a>
+                    <label>Siguenos en Instagram</label> 
+                </div>
+                </div>
+
+                <div class="column3">
+
+                    <h1> Informacion Contacto</h1>
+
+                    <div class="row2">
+                        <img src="/SolusoftWeb/wwwroot/imagenes/direccion.svg">
+                        <label >Calle Siempre Viva - Sprinfield </label>
+                    </div>
+
+                    <div class="row2">
+                        <img src="/SolusoftWeb/wwwroot/imagenes/movil.svg" >
+                        <lu>
+                            <li>608 - 27555513</li>
+                            <li>604 - 45678234</li>
+                        </lu>
+                    </div>
+
+                    <div class="row2">
+                        <img src="/SolusoftWeb/wwwroot/imagenes/email.svg" >
+                        <label>contactenos@solusoft.com</label>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+        
+            <div class="container-footer">
+                <div class="footer">
+                    <div class="copyright">© Todos los derechos reservados | 
+                        <a href="https://gitlab.com/" target="_blanck">Acceso al Git</a>
+                    </div>
+            
+                    <div class="information"> 
+                        <a href=""> Informacion Compañia |</a>
+                        <a href="">Privacion y Politica |</a>
+                        <a href="">Terminos y condiciones</a> 
+                    </div>
+                </div>
+            </div>
+            
+        
+    </footer>
+                         
+        
+    </div>
+    
+
+
+</body-index>
+</html>

@@ -1,6 +1,7 @@
 ﻿using System;
 using Dominio;
 using Persistencia;
+using System.Threading;
 
 namespace Aplicacion
 {
@@ -55,8 +56,8 @@ namespace Aplicacion
             //getEmpleados(1);
 
             //*********Cargos**********************
-            addCargos();
-            Console.WriteLine("Cargo Ingresado");
+            //addCargos();
+            //Console.WriteLine("Cargo Ingresado");
             //updateCargos();
             //Console.WriteLine("Cargo Actualizado");
             //deleteCargos();
@@ -163,9 +164,9 @@ namespace Aplicacion
          //**************************** INSERTAR CLIENTE**********************************
         public static void addClientes(){
             var Clientes = new Clientes{
-                Telefono ="3153336851",
-                Id_Persona= 8,
-                Id_Empresa = 2,
+                Telefono ="3153336651",
+                Id_Persona= 12,
+                Id_Empresa = 1,
             };
             _repoClientes.addClientes(Clientes);
         }
@@ -246,7 +247,7 @@ namespace Aplicacion
          //**************************** INSERTAR CARGO**********************************
         public static void addCargos(){
             var Cargos = new Cargos{
-                Nombre = "Diseñador de UI",
+                Nombre = "Diseñador de Interfaces",
                 Directivo = true,
             };
             _repoCargos.addCargos(Cargos);
@@ -282,7 +283,7 @@ namespace Aplicacion
          //**************************** INSERTAR DIRECTIVOS**********************************
         public static void addCategoria_Directivos(){
             var Categorias_Directivos = new Categorias_Directivos{
-                Descripcion = "Diseñador de software",
+                Descripcion = "Gerente General",
             };
             _repoDirectivos.addCategoria_Directivos(Categorias_Directivos);
         }

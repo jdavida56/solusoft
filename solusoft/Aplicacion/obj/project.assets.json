@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    ".NETCoreApp,Version=v3.1": {
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
@@ -139,7 +139,7 @@
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {}
         },
         "build": {
-          "build/netcoreapp3.0/_._": {}
+          "build/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.props": {}
         }
       },
       "Microsoft.EntityFrameworkCore.Relational/5.0.9": {
@@ -226,10 +226,10 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0"
         },
         "compile": {
-          "lib/net5.0/Microsoft.Extensions.DependencyInjection.dll": {}
+          "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll": {}
         },
         "runtime": {
-          "lib/net5.0/Microsoft.Extensions.DependencyInjection.dll": {}
+          "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll": {}
         }
       },
       "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
@@ -247,7 +247,8 @@
           "Microsoft.Extensions.DependencyInjection": "5.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "5.0.0",
-          "Microsoft.Extensions.Options": "5.0.0"
+          "Microsoft.Extensions.Options": "5.0.0",
+          "System.Diagnostics.DiagnosticSource": "5.0.0"
         },
         "compile": {
           "lib/netstandard2.1/Microsoft.Extensions.Logging.dll": {}
@@ -272,10 +273,10 @@
           "Microsoft.Extensions.Primitives": "5.0.0"
         },
         "compile": {
-          "lib/net5.0/Microsoft.Extensions.Options.dll": {}
+          "lib/netstandard2.0/Microsoft.Extensions.Options.dll": {}
         },
         "runtime": {
-          "lib/net5.0/Microsoft.Extensions.Options.dll": {}
+          "lib/netstandard2.0/Microsoft.Extensions.Options.dll": {}
         }
       },
       "Microsoft.Extensions.Primitives/5.0.0": {
@@ -643,10 +644,10 @@
       "System.Diagnostics.DiagnosticSource/5.0.1": {
         "type": "package",
         "compile": {
-          "lib/net5.0/System.Diagnostics.DiagnosticSource.dll": {}
+          "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
         },
         "runtime": {
-          "lib/net5.0/System.Diagnostics.DiagnosticSource.dll": {}
+          "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
         }
       },
       "System.Diagnostics.Tools/4.3.0": {
@@ -1522,7 +1523,7 @@
       },
       "Dominio/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETStandard,Version=v2.1",
         "compile": {
           "bin/placeholder/Dominio.dll": {}
         },
@@ -1532,7 +1533,7 @@
       },
       "Persistencia/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "Dominio": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.9",
@@ -5827,46 +5828,38 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    ".NETCoreApp,Version=v3.1": [
+      "Microsoft.EntityFrameworkCore.Design >= 5.0.9",
       "Persistencia >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JDAVID\\.nuget\\packages\\": {},
-    "C:\\ProgramData\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Hugo_Vallejo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Aplicacion\\Aplicacion.csproj",
+      "projectUniqueName": "c:\\Users\\Hugo_Vallejo\\Documents\\grupo51\\solusoft\\Aplicacion\\Aplicacion.csproj",
       "projectName": "Aplicacion",
-      "projectPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Aplicacion\\Aplicacion.csproj",
-      "packagesPath": "C:\\Users\\JDAVID\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Aplicacion\\obj\\",
+      "projectPath": "c:\\Users\\Hugo_Vallejo\\Documents\\grupo51\\solusoft\\Aplicacion\\Aplicacion.csproj",
+      "packagesPath": "C:\\Users\\Hugo_Vallejo\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Hugo_Vallejo\\Documents\\grupo51\\solusoft\\Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\ProgramData\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\JDAVID\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Hugo_Vallejo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net5"
+        "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Persistencia\\Persistencia.csproj": {
-              "projectPath": "C:\\Users\\JDAVID\\Downloads\\solusoft (1)\\SOLUSOFT\\Persistencia\\Persistencia.csproj"
+            "c:\\Users\\Hugo_Vallejo\\Documents\\grupo51\\solusoft\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "c:\\Users\\Hugo_Vallejo\\Documents\\grupo51\\solusoft\\Persistencia\\Persistencia.csproj"
             }
           }
         }
@@ -5878,8 +5871,14 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5",
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": {
+            "target": "Package",
+            "version": "[5.0.9, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -5895,7 +5894,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

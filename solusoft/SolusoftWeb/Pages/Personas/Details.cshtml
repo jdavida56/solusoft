@@ -1,0 +1,32 @@
+﻿@page
+@model MyApp.Namespace.DetailsModel
+@{
+
+    ViewData["Title"]= "Detalle de Personas";
+}
+
+
+
+<h2>Detalle Personas</h2>
+<table>
+    <tr>
+        <div>
+            <th>Nombres</th>
+            <th>Identidad</th>
+            <th>Sexo</th>
+            <th>Edad</th>
+        </div>
+    </tr> 
+    <tr>
+        <div>
+            <td>@Model.personas.Nombres</td>
+            <td>@Model.personas.Identidad</td>
+            <td>@Model.personas.Sexo</td>
+            <td>@Model.personas.Edad</td>
+        </div>
+    </tr>
+
+</table>
+
+
+<a asp-page="./List" class="btn-default">Lista de Personas</a>
